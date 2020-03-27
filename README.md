@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jenkins-based CI for the Scala project
 
 What it does:
@@ -9,3 +10,7 @@ What it does:
 
 To learn more, see the doc directory, beginning with
 [overview.md](doc/overview.md).
+=======
+# scala-jenkins-infra
+A Chef cookbook that manages Scala's CI infrastructure
+>>>>>>> 64dbb988d1317e6ded01f37b3ec3ddffe378946b
